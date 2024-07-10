@@ -1,6 +1,5 @@
 # django
 Django_Procedure
-Authors: Yutha Achar,CS,Ramachandra,Sivashankar
 
 Step 0.1 : In Terminal - create a project with folder name and project name as django1
 
